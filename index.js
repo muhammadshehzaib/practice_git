@@ -5,3 +5,6 @@ console.log(numberStore);
 
 a = "i am a good boy"
 console.log(a);
+
+b = "lahore is a good city"
+console.log(b);
