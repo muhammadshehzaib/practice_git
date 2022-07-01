@@ -3,4 +3,5 @@ let newNumber = 12;
 numberStore = [...numberStore, newNumber, ...numberStore];
 console.log(numberStore);
 
-console.log("this is the new branch");
+a = "i am a good boy"
+console.log(a);
