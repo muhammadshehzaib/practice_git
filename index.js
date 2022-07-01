@@ -3,5 +3,3 @@ let newNumber = 12;
 numberStore = [...numberStore, newNumber, ...numberStore];
 console.log(numberStore);
 
-a = "i am a good boy"
-console.log(a);
